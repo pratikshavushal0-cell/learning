@@ -1,4 +1,6 @@
 # learning
 this is my 1st learning repository where I will be learning git hub from yt.
 <br>
- Author - Pratiksha Bhusal (aric pv)
+ Author - Pratiksha Bhusal(aric pv)
+ here  the journey begins
+ 
